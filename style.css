@@ -34,7 +34,7 @@ body {
 
 button {
   width: 100px;
-  height: 100px;
+  aspect-ratio: 1/1;
   border-radius: 50px;
   border: none;
   background-color: hsl(0, 0%, 30%);
